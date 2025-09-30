@@ -1,7 +1,6 @@
-![Image](./docs/img/Screenshot%20(121).png)
-![Image](./docs/img/Screenshot%20(122).png)
-![Image](./docs/img/Screenshot%20(123).png)
-![Image](./docs/img/Screenshot%20(124).png)
-![Image](./docs/img/Screenshot%20(126).png)
-![Image](./docs/img/Screenshot%20(127).png)
+![Image](./docs/img/Screenshot%20(128).png)
+![Image](./docs/img/Screenshot%20(129).png)
+![Image](./docs/img/Screenshot%20(131).png)
+![Image](./docs/img/Screenshot%20(1322).png)
+![Image](./docs/img/Screenshot%20(133).png)
 
