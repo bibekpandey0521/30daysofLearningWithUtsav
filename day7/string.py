@@ -1,0 +1,12 @@
+str1 = "Hello World!"
+print(str1[4])
+print(str1[-3])
+print(str1[-7])
+print(str1[2:])
+print(str1[2:5])
+print(str1[2:10])
+print(str1[2:10:2])
+print(str1[-1:10:2])
+print(str1[-1:-12:-2])
+print(str1[1::2])
+print(str1[0::2])
