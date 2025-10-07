@@ -2,7 +2,7 @@
 def add(x,y):
     return x+y
 
-# Function to subtract two numbers
+# Function to subtract two numbers 
 def subtract(x,y):
     return x - y
 
@@ -18,7 +18,7 @@ def divide (x,y):
         return x/y
 
 def calculator():
-    print("Select operation:")
+    print("Select the  operation:")
     print("1. Add")
     print("2. Subtract")
     print("3. Multiply")
