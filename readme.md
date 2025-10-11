@@ -1,8 +1,7 @@
-![Image](./docs/img/Screenshot%20(170).png)
-![Image](./docs/img/Screenshot%20(171).png)
-![Image](./docs/img/Screenshot%20(172).png)
-![Image](./docs/img/Screenshot%20(173).png)
-![Image](./docs/img/Screenshot%20(174).png)
-![Image](./docs/img/Screenshot%20(175).png)
-![Image](./docs/img/Screenshot%20(176).png)
+![Image](./docs/img/d12s1.png.png)
+![Image](./docs/img/d12s2.png)
+![Image](./docs/img/d12s3.png)
+![Image](./docs/img/d12s4.png)
+![Image](./docs/img/d12s5.png)
+
 
