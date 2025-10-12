@@ -1,16 +1,16 @@
-# my_tuple = (1,2,3)
+my_tuple = (1,2,3)
 
-# fruits = ("apple","banana","cheery")
-# print(fruits[0])
+fruits = ("apple","banana","cheery")
+print(fruits[0])
 
 
-# fruits = ("apple","banana","cheery")
-# print(len(fruits))
+fruits = ("apple","banana","cheery")
+print(len(fruits))
 
-# fruits = ("apple","banana","cheery")
-# print(fruits[0])
+fruits = ("apple","banana","cheery")
+print(fruits[0])
 
-# print(fruits[-1])
+print(fruits[-1])
 
 
 #2 
