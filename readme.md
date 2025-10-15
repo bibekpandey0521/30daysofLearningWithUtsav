@@ -1,7 +1,6 @@
-![Image](./docs/img/Screenshot%20(188).png)
-![Image](./docs/img/Screenshot%20(189).png)
-![Image](./docs/img/Screenshot%20(190).png)
-![Image](./docs/img/Screenshot%20(191).png)
-![Image](./docs/img/Screenshot%20(192).png)
+![Image](./docs/img/Screenshot%20(193).png)
+![Image](./docs/img/Screenshot%20(194).png)
+![Image](./docs/img/Screenshot%20(195).png)
+![Image](./docs/img/Screenshot%20(196).png)
 
 
