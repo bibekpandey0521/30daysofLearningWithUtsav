@@ -1,3 +1,0 @@
-Recipe: Pancakes
-Ingredients: Flour,Milk,Eggs,Sugar
-Instructions: Mix and fry.
