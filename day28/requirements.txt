@@ -1,5 +1,0 @@
-numpy
-os
-requests
-textwrap
-BeautifulSoup
